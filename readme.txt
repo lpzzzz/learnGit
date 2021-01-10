@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Git merge Fast forward.
 Update readme file.
+Other coder update readme File.
